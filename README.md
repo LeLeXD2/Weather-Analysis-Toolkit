@@ -11,6 +11,9 @@ This project is a high-performance Command-Line Interface (CLI) toolkit written 
 ### Tech Stack ###
 C++
 
+### Download the dataset ###
+Download the zip folder via the link - https://data.open-power-system-data.org/weather_data/2020-09-16
+
 #### Run these liines in the terminal ####
 * Run ```g++ -o main CSVReader.cpp MetozaMain.cpp WeatherDataEntry.cpp PastData.cpp main.cpp -std=c++17 -Wall -Wextra``` from the project directory to compile the code
 
